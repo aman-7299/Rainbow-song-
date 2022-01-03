@@ -1,2 +1,3 @@
 # Rainbow-song-
-Song about rainbow 
+Song about rainbow
+in the c major 
